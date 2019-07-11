@@ -1,0 +1,6 @@
+plugin:
+    name: 'luismayta.web::lang.plugin.name'
+    description: 'luismayta.web::lang.plugin.description'
+    author: 'Luis Mayta'
+    icon: oc-icon-cubes
+    homepage: ''
