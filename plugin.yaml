@@ -4,3 +4,13 @@ plugin:
     author: 'Luis Mayta'
     icon: oc-icon-cubes
     homepage: ''
+navigation:
+    main-menu-item:
+        label: Web
+        url: luismayta/web/configuracion
+        icon: icon-cubes
+        sideMenu:
+            side-menu-item:
+                label: prueba
+                url: luismayta/web/pruebados
+                icon: icon-sitemap
