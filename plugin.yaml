@@ -11,6 +11,6 @@ navigation:
         icon: icon-cubes
         sideMenu:
             side-menu-item:
-                label: prueba
+                label: 'Configuracion sitio'
                 url: luismayta/web/pruebados
-                icon: icon-sitemap
+                icon: icon-cogs

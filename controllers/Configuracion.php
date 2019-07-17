@@ -16,6 +16,7 @@ class Configuracion extends Controller
     }
     public function index()
     {
+        $this->create('frontend');
         $this->pageTitle = 'Configuracion del sitio';
     }
 }

@@ -1,5 +1,5 @@
 1.0.1:
     - 'Initialize plugin.'
 1.0.2:
-    - 'Created table luismayta_web_config'
-    - builder_table_create_luismayta_web_config.php
+    - 'Created table luismayta_web_configuracion'
+    - builder_table_create_luismayta_web_configuracion.php
