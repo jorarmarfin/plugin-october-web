@@ -7,10 +7,14 @@ plugin:
 navigation:
     main-menu-item:
         label: Web
-        url: luismayta/web/configuracion
+        url: luismayta/web/sitiocontrollers
         icon: icon-cubes
         sideMenu:
             side-menu-item:
                 label: 'Configuracion sitio'
-                url: luismayta/web/pruebados
+                url: luismayta/web/sitiocontrollers
                 icon: icon-cogs
+            side-menu-item2:
+                label: Banners
+                url: luismayta/web/bannerscontrollers
+                icon: icon-sitemap

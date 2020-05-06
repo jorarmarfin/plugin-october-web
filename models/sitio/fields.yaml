@@ -1,5 +1,5 @@
 fields:
-    logo:
-        label: Texto
+    nombre:
+        label: Nombres
         span: auto
         type: text

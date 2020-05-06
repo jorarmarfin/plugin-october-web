@@ -5,7 +5,7 @@ use Model;
 /**
  * Model
  */
-class Configuracion extends Model
+class Sitio extends Model
 {
     use \October\Rain\Database\Traits\Validation;
     
@@ -19,7 +19,7 @@ class Configuracion extends Model
     /**
      * @var string The database table used by the model.
      */
-    public $table = 'luismayta_web_config';
+    public $table = 'luismayta_web_sitio';
 
     /**
      * @var array Validation rules

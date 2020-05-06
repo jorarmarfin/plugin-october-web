@@ -1,0 +1,28 @@
+fields:
+    nombre:
+        label: Nombre
+        span: full
+        type: text
+    subtitulo:
+        label: Subtitulo
+        span: full
+        type: text
+    enlace:
+        label: Enlace
+        span: auto
+        type: text
+    banner:
+        label: Banner
+        mode: image
+        imageWidth: '400'
+        imageHeight: '300'
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: auto
+        type: fileupload
+    orden:
+        label: Orden
+        span: auto
+        type: number

@@ -1,0 +1,10 @@
+columns:
+    orden:
+        label: Orden
+        type: number
+    nombre:
+        label: Nombre
+        type: text
+    subtitulo:
+        label: Subtitulo
+        type: text

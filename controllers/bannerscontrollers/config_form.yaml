@@ -1,0 +1,10 @@
+name: BannersControllers
+form: $/luismayta/web/models/banners/fields.yaml
+modelClass: LuisMayta\Web\Models\Banners
+defaultRedirect: luismayta/web/bannerscontrollers
+create:
+    redirect: 'luismayta/web/bannerscontrollers/update/:id'
+    redirectClose: luismayta/web/bannerscontrollers
+update:
+    redirect: luismayta/web/bannerscontrollers
+    redirectClose: luismayta/web/bannerscontrollers

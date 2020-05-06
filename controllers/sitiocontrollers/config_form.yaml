@@ -1,0 +1,10 @@
+name: SitioControllers
+form: $/luismayta/web/models/sitio/fields.yaml
+modelClass: LuisMayta\Web\Models\Sitio
+defaultRedirect: luismayta/web/sitiocontrollers
+create:
+    redirect: 'luismayta/web/sitiocontrollers/update/:id'
+    redirectClose: luismayta/web/sitiocontrollers
+update:
+    redirect: luismayta/web/sitiocontrollers
+    redirectClose: luismayta/web/sitiocontrollers
